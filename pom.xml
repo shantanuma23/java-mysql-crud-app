@@ -56,7 +56,7 @@
 			</plugin>
 		</plugins>
 		<configuration>
-        		<finalName>myJar</finalName>                   
+        		<finalName>app</finalName>                   
     		</configuration>
 	</build>
 
